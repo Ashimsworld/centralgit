@@ -1,3 +1,7 @@
 yum install httpd -y
 yum update -y
 service httpd start
+service httpd restart
+service httpd stop.
+
+And there are many more commande we can use here.
